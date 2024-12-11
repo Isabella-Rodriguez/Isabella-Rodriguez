@@ -3,7 +3,7 @@
 
 - 💬 Pregúntame acerca de **html,css,JS,Py,API´s,SQL,Flask,React,Postman...**
 
-- 📫 Como contactarme **isarolat2020@gmail.com**
+- 📫 Como contactarme **isarolay2020@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
