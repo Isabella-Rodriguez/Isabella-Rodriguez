@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Isabella Rodríguez Laytón</h1>
-<h3 align="center">Desarrolladora Full Stack motivada e ingeniosa, con formación completa en un bootcamp de desarrollo web. Poseo conocimientos sólidos en JavaScript, React, Node.js, APIs y SQLAlchemy. Además, cuento con un título como técnica en desarrollo de software, lo que me ha permitido adquirir experiencia con diversas tecnologías. Familiarizada con metodologías ágiles como Scrum, estoy comprometida con el aprendizaje continuo y la entrega de productos de alta calidad, convirtiéndome en un activo valioso para equipos que buscan soluciones de software innovadoras.</h3>
+<h3 align="center">Desarrolladora Full Stack motivada e ingeniosa, con formación completa en un bootcamp de desarrollo web. Poseo conocimientos sólidos en JavaScript, React, Node.js, APIs, Py y SQLAlchemy. Además, cuento con un título como técnica en desarrollo de software, lo que me ha permitido adquirir experiencia con diversas tecnologías. Familiarizada con metodologías ágiles como Scrum, estoy comprometida con el aprendizaje continuo y la entrega de productos de alta calidad, convirtiéndome en un activo valioso para equipos que buscan soluciones de software innovadoras.</h3>
 
 - 💬 Pregúntame acerca de **HTML, CSS, JavaScript, Python, APIs, SQL, Flask, React, Postman...**
 
